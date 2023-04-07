@@ -1,0 +1,53 @@
+{
+    "avengers" : [
+      {
+        "name": "Iron Man",
+        "real_name": "Tony Stark",
+        "occupation": "CEO of Stark Industries, Avenger",
+        "powers": ["Genius-level intellect", "Powered armor suit"],
+        "movies": ["Iron Man", "The Avengers", "Iron Man 3", "Avengers: Age of Ultron", "Captain America: Civil War", "Spider-Man: Homecoming", "Avengers: Infinity War", "Avengers: Endgame"],
+        "image_url": "https://resizing.flixster.com/jTU4RAjnwcZAconup5QZkH2Emb8=/206x305/v2/https://flxt.tmsimg.com/assets/p170620_p_v8_az.jpg"
+      },
+      {
+        "name": "Captain America",
+        "real_name": "Steve Rogers",
+        "occupation": "Avenger",
+        "powers": ["Superhuman strength", "Agility", "Endurance"],
+        "movies": ["Captain America: The First Avenger", "The Avengers", "Captain America: The Winter Soldier", "Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Infinity War", "Avengers: Endgame"],
+        "image_url": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg"
+      },
+      {
+        "name": "Thor",
+        "real_name": "Thor Odinson",
+        "occupation": "Prince of Asgard, Avenger",
+        "powers": ["Superhuman strength", "Lightning manipulation", "Mjolnir"],
+        "movies": ["Thor", "The Avengers", "Thor: The Dark World", "Avengers: Age of Ultron", "Thor: Ragnarok", "Avengers: Infinity War", "Avengers: Endgame"],
+        "image_url": "https://st1.bollywoodlife.com/wp-content/uploads/2022/06/Thor-Love-And-Thunder-God-of-Thunder-Chris-Hemsworth.png"
+      },
+      {
+        "name": "The Hulk",
+        "real_name": "Bruce Banner",
+        "occupation": "Scientist, Avenger",
+        "powers": ["Superhuman strength", "Regeneration", "Unlimited stamina"],
+        "movies": ["The Incredible Hulk", "The Avengers", "Avengers: Age of Ultron", "Thor: Ragnarok", "Avengers: Infinity War", "Avengers: Endgame"],
+        "image_url": "https://pyxis.nymag.com/v1/imgs/41a/0dd/1503366ab1d665452cb9f0132647b97f15-03-the-hulk.rsquare.w700.jpg"
+      },
+      {
+        "name": "Black Widow",
+        "real_name": "Natasha Romanoff",
+        "occupation": "Former KGB agent, Avenger",
+        "powers": ["Expert martial artist", "Expert marksman", "Espionage"],
+        "movies": ["Iron Man 2", "The Avengers", "Captain America: The Winter Soldier", "Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Infinity War"],
+        "image_url": "https://play-lh.googleusercontent.com/kyp2sHm5j8Wg3ZZoKObeMDylyTzIYJc_WAZJId-EZptCH6nHR-_dHhVrWtUv5wgajI59yLfFJpbYe7u4SVeX"
+      },
+      {
+        "name": "Hawkeye",
+        "real_name": "Clint Barton",
+        "occupation": "Avenger",
+        "powers": ["Expert marksman", "Master of various weapons"],
+        "movies": ["Thor", "The Avengers", "Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Endgame"],
+        "image_url": "https://images.thedirect.com/media/photos/hawkeyuys.jpg"
+      }
+    ]
+  }
+  

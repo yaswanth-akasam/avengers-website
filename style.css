@@ -1,0 +1,132 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header styles */
+header {
+  position: sticky;
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+
+}
+
+.avenger {
+  background-color: rgba(98, 101, 195, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+ 
+  
+}
+
+.avenger-name {
+  font-size: 8rem;
+  font-weight: bold;
+  margin: 0;
+  color: white;
+  
+}
+
+.avenger-quote {
+  font-size: 2rem;
+  font-style: italic;
+  text-align: center;
+  margin: 20px 0 0;
+  color : rgb(252, 252, 252)
+}
+
+
+
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav li:last-child {
+  margin-right: 0;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Main styles */
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+section h2 {
+  margin-top: 0;
+}
+
+.featured-character,
+.latest-movie {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.featured-character img,
+.latest-movie img {
+  max-width: 400px;
+  margin-bottom: 20px;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+
+.bg-div{
+  background-image: url("endgame.jpg");
+  background-size: cover;
+  filter: blur(0.2px);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* .bg-title{
+  font-size: 8rem;
+  font-weight: bold;
+  color: white;
+  text-shadow: 2px 2px 4px black;
+  text-align: center;
+} */
